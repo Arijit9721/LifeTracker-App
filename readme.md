@@ -37,7 +37,7 @@ LifeTracker is a fun web app built with **HTML, CSS,** and **JavaScript** that t
 
   
 
-3.  A random future date (1 to 50 years ahead) is generated.
+3.  A random future date (1 to 100 years ahead) is generated.
 
   
 
