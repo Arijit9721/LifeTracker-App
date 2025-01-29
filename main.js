@@ -35,7 +35,7 @@ function generateNewDate(date){
     const startDate = date.getTime();
 
     const leastAhead = 365;
-    const maxAhead = 365*50;
+    const maxAhead = 365*100;
 
     // generate a random day that is 1 to 50 years ahead
     const randomDay = Math.floor(Math.random()*(maxAhead-leastAhead+1))+leastAhead;
